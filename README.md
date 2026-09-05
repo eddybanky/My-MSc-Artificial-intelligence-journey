@@ -1,4 +1,3 @@
-# My-MSc-Artificial-Intelligence-journey
 # MSc Artificial Intelligence – University of Essex Online
 This e-portfolio documents my learning journey throughout the MSc Artificial Intelligence programme at the University of Essex Online. It contains my modules, units, assignments, projects, research notes, and professional development. Each section is organised to clearly demonstrate progression, technical skills, and academic achievement.
 
