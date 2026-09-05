@@ -1,43 +1,126 @@
 /Modules
     /Understanding-Artificial-Intelligence
-/notes
-/assignments
-/projects
-/reflection
+# Understanding Artificial Intelligence
+This module introduces the foundations of AI, including its history, definitions, applications, and ethical considerations.
+
+## Units
+- What is AI?
+- AI vs Human Intelligence
+- Ethical and Social Implications
+- Applications of AI
+
+## Contents
+- Notes: Key concepts and summaries
+- Assignments: Written tasks and analysis
+- Projects: Small practical exercises
+- Reflection: Learning outcomes and insights
+
 
     /Numerical-Analysis
-/notes
-/assignments
-/projects
-/reflection
+# Numerical Analysis
+This module covers mathematical foundations essential for AI and machine learning.
+
+## Units
+- Linear Algebra
+- Calculus for AI
+- Optimisation Techniques
+- Probability & Statistics
+
+## Contents
+- Notes
+- Assignments
+- Projects
+- Reflection
+
 
     /Machine-Learning
-/notes
-/assignments
-/projects
-/reflection
+# Machine Learning
+This module explores core ML algorithms, evaluation methods, and practical implementation.
+
+## Units
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation & Metrics
+- Overfitting & Regularisation
+
+## Contents
+- Notes
+- Assignments
+- Projects
+- Reflection
+
 
     /Launch-Into-Computing
-/notes
-/assignments
-/projects
-/reflection
+# Launch Into Computing
+This module builds foundational computing and programming skills.
+
+## Units
+- Programming Basics
+- Data Structures
+- Software Design
+- Version Control
+
+## Contents
+- Notes
+- Assignments
+- Projects
+- Reflection
+
 
     /Intelligent-Agents
-/notes
-/assignments
-/projects
-/reflection
+# Intelligent Agents
+This module examines agent-based systems, search, planning, and decision-making.
+
+## Units
+- Agent Architectures
+- Search Algorithms
+- Planning & Decision Making
+- Multi-Agent Systems
+
+## Contents
+- Notes
+- Assignments
+- Projects
+- Reflection
+
 
     /Research-Methods-and-Professional-Practice
 /notes
 /assignments
 /projects
-/reflection
+/reflection# Research Methods & Professional Practice
+This module develops academic research skills and professional competencies.
+
+## Units
+- Research Design
+- Methodology
+- Ethics
+- Academic Writing
+
+## Contents
+- Notes
+- Assignments
+- Projects
+- Reflection
+
 
     /MSc-Computing-Project
 /notes
 /assignments
 /projects
-/reflection
+/reflection# MSc Computing Project
+This module is the final dissertation project demonstrating applied AI research.
+
+## Units
+- Proposal
+- Literature Review
+- Implementation
+- Evaluation & Dissertation
+
+## Contents
+- Notes
+- Project Files
+- Research Logs
+- Reflection
+
 
