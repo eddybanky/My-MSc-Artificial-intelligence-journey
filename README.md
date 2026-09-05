@@ -1,1 +1,1 @@
-# My-MSc-Artificial-lntelligence-journey
+# My-MSc-Artificial-Intelligence-journey
